@@ -1,0 +1,5 @@
+site_name: "SRE Docs"
+nav:
+  - Главная: index.md
+  - Runbooks:
+      - PodInfo: runbooks/podinfo_http_latency.md
